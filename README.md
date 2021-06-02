@@ -1,11 +1,10 @@
 # Millionaire
-Who Wants to Be a Millionaire?
-Arnak Gevorgyan
+# Who Wants to Be a Millionaire?
 #############################################################
 
 
-Setup
-In this project I use Django Python
+## Setup
+# In this project I use Django Python
 The first thing to do is to clone the repository:
 $ https://github.com/Arno-Gevorgyan/Millionaire.git
 Create a virtual environment to install dependencies in and activate it:
